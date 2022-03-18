@@ -7,6 +7,8 @@
 - 支持单列、多列选择
 - 支持动态更新每列的数据
 
+![demo](https://raw.githubusercontent.com/bxzhou2008/picker/master/demo.png)
+![demo2](https://raw.githubusercontent.com/bxzhou2008/picker/master/demo2.png)
 
 ## 如何使用
 ```shell script
