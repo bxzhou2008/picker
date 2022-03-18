@@ -24,6 +24,7 @@ const dateData = range(30, today.getFullYear()).map(vy =>{
 var picker = new Picker({
 
   data: dateData,
+  selectedIndex: [0, today.getMonth(), today.getDate()-1],
 	title: '选择日期'
 });
 
